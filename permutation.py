@@ -11,5 +11,4 @@ def Permutation(data, n):
 data = [1, 2]
 Permutation(data, len(data))
 
-#O(n!) - fatorial
-            
+#O(n!) - fatorial           
