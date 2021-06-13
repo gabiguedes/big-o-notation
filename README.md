@@ -17,7 +17,7 @@ O que ocorre em algoritmos que fazem busca em árvores binarias não ordenadas.
  - O (n^2) (quadrática) é factível, mas tende a se tornar bem ruim quando a quantidade de dados é suficientemente grande. 
 É o caso de algoritmos que têm dois laços (nós encadeados, como por exemplo, o processamento de itens em uma matriz bidimensional.
 
- - (n log n) (sub-quadrática ou super linear) é mais eficiente que a quadrática. É o caso do algoritmo de ordenação Quick Sort, tem complexidade _C(n)=O(n2)_ no pior caso e _C(n)=O (n logn)_ no melhor e médio caso.
+ - O(n log(n) (sub-quadrática ou super linear) é mais eficiente que a quadrática. É o caso do algoritmo de ordenação Quick Sort, tem complexidade _C(n)=O(n2)_ no pior caso e _C(n)=O (n logn)_ no melhor e médio caso.
 
  - O(n) (Linear) é aquele cujo crescimento no número de operações é diretamente proporcional ao crescimento do número de itens. Assim temos algoritmos de busca em uma matriz unidimensional não ordenada.
 
